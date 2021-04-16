@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>carmenpareras &#8211; Carmen Pareras Keramiek</title>
+	<atom:link href="/author/carmenpareras/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>in aanbouw ...</description>
+	<lastBuildDate>Tue, 13 Apr 2021 18:55:59 +0000</lastBuildDate>
+	<language>nl-BE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/04/Logo-klein.jpg</url>
+	<title>carmenpareras &#8211; Carmen Pareras Keramiek</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hallo wereld!</title>
+		<link>/2021/04/13/hallo-wereld/</link>
+					<comments>/2021/04/13/hallo-wereld/#comments</comments>
+		
+		<dc:creator><![CDATA[carmenpareras]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 18:55:59 +0000</pubDate>
+				<category><![CDATA[Geen categorie]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het en start dan met schrijven!]]></description>
+										<content:encoded><![CDATA[
+<p>Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het en start dan met schrijven!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/13/hallo-wereld/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
