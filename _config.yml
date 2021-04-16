@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://swarly92.github.io/gallery/"  
-  - JOURNAL: "https://swarly92.github.io/journal/"
-  - ABOUT: "https://swarly92.github.io/about/"
+  - GALLERY: "https://swarly92.github.io/CarmenPareras/gallery/"  
+  - JOURNAL: "https://swarly92.github.io/CarmenPareras/journal/"
+  - ABOUT: "https://swarly92.github.io/CarmenPareras/about/"
 
 # All translation keys
 translations:
